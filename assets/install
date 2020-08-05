@@ -1,0 +1,4 @@
+yarn add gatsby-cli
+gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog
+cd gatsby-blog
+gatsby develop --host 0.0.0.0   // access through http://localhost:8000
